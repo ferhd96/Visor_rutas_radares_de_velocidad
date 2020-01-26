@@ -17,3 +17,6 @@ https://ferhd96.github.io/Visor_rutas_radares_de_velocidad/Visor_radares_rutas.h
 
 Fuente de datos de los radares de velocidad: 
 https://www.ecestaticos.com/file/71f143faf459ac58bc26d046d6c51454/1554292285-informe_cinemometros_web_ok_01-04.pdf
+
+Autor: Fernando Hernández 
+Contacto: ferhdv@gmail.com
